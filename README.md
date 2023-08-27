@@ -5,4 +5,4 @@
 
 -> [Merge Sort](https://github.com/HuseyinOzt/Patika.dev-Projects/blob/main/MergeSort.md)
 
--> [Binary Search Tree](
+-> [Binary Search Tree](https://github.com/HuseyinOzt/Patika.dev-Projects/blob/main/BinarySearchTree.md)
